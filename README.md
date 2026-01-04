@@ -44,11 +44,7 @@ I like working on projects that solve practical problems and help me strengthen 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic\&logo=vercel\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=plastic\&logo=netlify\&logoColor=00C7B7)
 
-### 📱 App Development & Real-Time Systems
 
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=plastic\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=plastic\&logo=expo\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic\&logo=typescript\&logoColor=white)
 
 ### 🔧 DevOps, Version Control & Tools
 
