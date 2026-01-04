@@ -7,11 +7,9 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science undergraduate focused on **Backend Development**
-* ☕ Strong foundation in **Java, Spring Boot, Hibernate & REST APIs**
-* ☁️ Actively exploring **Cloud Computing (AWS, Firebase)** and **DevOps practices**
-* 🧠 Interested in solving real-world problems using **scalable system design**
-* 🛠️ Experience building projects involving **authentication, databases, APIs & deployment**
+I am a **Computer Science undergraduate** with a strong interest in **backend development and cloud technologies**. I enjoy building reliable, scalable, and secure server-side applications using **Java and Spring Boot**. My learning journey is focused on understanding how real-world systems work — from designing REST APIs and handling authentication to deploying applications on the cloud.
+
+I like working on projects that solve practical problems and help me strengthen my fundamentals in **databases, system design, and DevOps workflows**. Currently, I am sharpening my backend skills while gradually moving towards **cloud-native development and CI/CD practices**.
 
 ---
 
@@ -69,17 +67,51 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🔝 Top Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashh152004\&theme=dark\&show_icons=true\&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashh152004\&theme=dark\&layout=compact)
+* **Java** – Backend development, Spring Boot, REST APIs
+* **C** – Core programming and problem-solving fundamentals
+* **HTML5** – Basic frontend structure and integration with backend services
+* **SQL** – Database queries, joins, and schema design
 
 ---
 
 ## 🏆 Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashh152004\&theme=radical\&no-frame=false\&margin-w=4)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 **Aashray – Smart Women Safety & Emergency Response System**
+
+* Built a **full-stack safety solution** integrating IoT devices with a cloud backend
+* Implemented **real-time location tracking, SOS alerts, and emergency communication**
+* Used **Firebase, Cloud Functions, GSM/GPS modules, and secure backend logic**
+* Focused on **reliability, real-time data handling, and system integration**
+
+### 🔹 **Backend E-Commerce Web Application**
+
+* Developed a **backend-driven e-commerce platform** using **Java & Spring Boot**
+* Implemented **user authentication (JWT), product management, cart, and order processing**
+* Designed **RESTful APIs**, handled validation, and ensured secure access control
+* Integrated **MySQL/MongoDB** for data persistence with proper schema design
+* Focused on **scalability, clean architecture, and real-world backend practices**
+
+### 🔹 **Nextera – Job Portal Web Application**
+
+* Designed and developed a **backend-centric job portal system**
+* Implemented **user authentication, job postings, applications, and role-based access**
+* Built **REST APIs** for employers and job seekers
+* Focused on **database relationships, API security, and maintainable backend architecture**
+
+### 🔹 **Aashray – Smart Safety & Emergency Backend System**
+
+* Built a **cloud-connected backend system** for a women safety solution
+* Implemented **real-time SOS handling, location tracking, and alert management**
+* Integrated **Firebase, cloud functions, and IoT data streams**
+* Focused on **real-time data processing, reliability, and secure backend workflows**
 
 ---
 
