@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Backend Java developer and Cloud Enthusiast from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashh152004" alt="yashh152004" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot and Cloud Computing**
 
