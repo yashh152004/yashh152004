@@ -121,6 +121,8 @@ I like working on projects that solve practical problems and help me strengthen 
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=yashh152004\&icon=0\&color=0)
+### 🔚 Professional Summary
 
-> *“Learning never stops — building never ends.”*
+Backend-focused **Java & Spring Boot Developer** with hands-on experience in building **RESTful APIs, secure authentication systems, database-driven applications, and cloud-integrated backends**. Actively learning **AWS, DevOps, CI/CD, and scalable system design**, with a strong interest in **backend engineering, cloud-native development, and real-world problem solving**.
+
+**Keywords:** Java, Spring Boot, REST APIs, Backend Development, JWT Authentication, MySQL, MongoDB, Hibernate, Cloud Computing, AWS, Firebase, DevOps, CI/CD, System Design, Microservices (learning), Git, API Security
