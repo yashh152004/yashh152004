@@ -96,9 +96,6 @@ I like working on projects that solve practical problems and help me strengthen 
 
 ---
 
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashh152004\&theme=radical\&no-frame=false\&margin-w=4)
 
 ---
 
