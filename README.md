@@ -97,38 +97,7 @@ I like working on projects that solve practical problems and help me strengthen 
 ---
 
 
----
 
-## 🚀 Featured Projects
-
-### 🔹 **Aashray – Smart Women Safety & Emergency Response System**
-
-* Built a **full-stack safety solution** integrating IoT devices with a cloud backend
-* Implemented **real-time location tracking, SOS alerts, and emergency communication**
-* Used **Firebase, Cloud Functions, GSM/GPS modules, and secure backend logic**
-* Focused on **reliability, real-time data handling, and system integration**
-
-### 🔹 **Backend E-Commerce Web Application**
-
-* Developed a **backend-driven e-commerce platform** using **Java & Spring Boot**
-* Implemented **user authentication (JWT), product management, cart, and order processing**
-* Designed **RESTful APIs**, handled validation, and ensured secure access control
-* Integrated **MySQL/MongoDB** for data persistence with proper schema design
-* Focused on **scalability, clean architecture, and real-world backend practices**
-
-### 🔹 **Nextera – Job Portal Web Application**
-
-* Designed and developed a **backend-centric job portal system**
-* Implemented **user authentication, job postings, applications, and role-based access**
-* Built **REST APIs** for employers and job seekers
-* Focused on **database relationships, API security, and maintainable backend architecture**
-
-### 🔹 **Aashray – Smart Safety & Emergency Backend System**
-
-* Built a **cloud-connected backend system** for a women safety solution
-* Implemented **real-time SOS handling, location tracking, and alert management**
-* Integrated **Firebase, cloud functions, and IoT data streams**
-* Focused on **real-time data processing, reliability, and secure backend workflows**
 
 ---
 
